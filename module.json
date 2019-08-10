@@ -1,11 +1,11 @@
 {
     "disableAutoUpdate": false,
 	"name": "world-bam-notifier",
-	"author": "teralove",
+	"author": "teralove, PsykoDev",
 	"description": "Notifies you when a world bam is close by.",
 	"options": {
 		"niceName": "World Bam Notifier"
 	},
-    "servers": ["https://raw.githubusercontent.com/teralove/world-bam-notifier/master/"],
-    "supportUrl": "https://github.com/teralove/world-bam-notifier/issues"
+    "servers": ["https://raw.githubusercontent.com/PsykoDev/world-bam-notifier/master/"],
+    "supportUrl": "https://github.com/PsykoDev/world-bam-notifier/issues"
 }
